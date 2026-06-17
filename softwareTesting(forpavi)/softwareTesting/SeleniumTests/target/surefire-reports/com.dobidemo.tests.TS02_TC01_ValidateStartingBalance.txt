@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.dobidemo.tests.TS02_TC01_ValidateStartingBalance
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 12.66 s <<< FAILURE! -- in com.dobidemo.tests.TS02_TC01_ValidateStartingBalance
+com.dobidemo.tests.TS02_TC01_ValidateStartingBalance.testNegativeStartingBalanceRejected -- Time elapsed: 12.61 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: FAIL: System accepted a negative balance (-0.01) and successfully saved the profile record at: http://softwaretesting.umt.edu.my/dobidemo/index.php?page=view_supplier&id=96
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:38)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:138)
+	at com.dobidemo.tests.TS02_TC01_ValidateStartingBalance.testNegativeStartingBalanceRejected(TS02_TC01_ValidateStartingBalance.java:86)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+

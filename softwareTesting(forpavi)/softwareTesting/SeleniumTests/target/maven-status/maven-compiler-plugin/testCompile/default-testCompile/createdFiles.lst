@@ -1,0 +1,8 @@
+com/dobidemo/tests/TS02_TC03_ViewSupplierProfile.class
+com/dobidemo/tests/TS02_TC04_UpdateNegativeBalanceBoundary.class
+com/dobidemo/tests/TS02_TC04_UpdateValidMinimumBalance.class
+com/dobidemo/tests/TS02_TC01_CreateValidSupplier.class
+com/dobidemo/tests/TS02_TC01_ValidateStartingBalance.class
+com/dobidemo/tests/TS02_TC04_BlankMandatoryFieldUpdate.class
+com/dobidemo/tests/TS02_TC02_SortingAndSearchingSuppliers.class
+com/dobidemo/tests/TS02_TC04_ModifySupplierProfile.class

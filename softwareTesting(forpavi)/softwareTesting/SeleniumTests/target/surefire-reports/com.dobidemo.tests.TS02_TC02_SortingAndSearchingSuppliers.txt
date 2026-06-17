@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.dobidemo.tests.TS02_TC02_SortingAndSearchingSuppliers
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.77 s -- in com.dobidemo.tests.TS02_TC02_SortingAndSearchingSuppliers
