@@ -1,0 +1,6 @@
+com\mycompany\dobidemo\ChromeTest.class
+com\mycompany\dobidemo\TS01_TC02_SortingAndSearchingCustomers.class
+com\mycompany\dobidemo\TS01_TC03_ViewCustomerProfile.class
+com\mycompany\dobidemo\TS01_TC05_UpdateCustomerInfo.class
+com\mycompany\dobidemo\TS01_TC01_AddNewCustomer.class
+com\mycompany\dobidemo\TS01_TC04_LoyaltyCategorization.class
